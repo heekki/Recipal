@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Recipal/static/css/main.1f591648.chunk.css",
+    "main.js": "/Recipal/static/js/main.a15bba2c.chunk.js",
+    "main.js.map": "/Recipal/static/js/main.a15bba2c.chunk.js.map",
+    "runtime-main.js": "/Recipal/static/js/runtime-main.4ef6325a.js",
+    "runtime-main.js.map": "/Recipal/static/js/runtime-main.4ef6325a.js.map",
+    "static/css/2.8a17276e.chunk.css": "/Recipal/static/css/2.8a17276e.chunk.css",
+    "static/js/2.0ba3a2d9.chunk.js": "/Recipal/static/js/2.0ba3a2d9.chunk.js",
+    "static/js/2.0ba3a2d9.chunk.js.map": "/Recipal/static/js/2.0ba3a2d9.chunk.js.map",
+    "index.html": "/Recipal/index.html",
+    "static/css/2.8a17276e.chunk.css.map": "/Recipal/static/css/2.8a17276e.chunk.css.map",
+    "static/css/main.1f591648.chunk.css.map": "/Recipal/static/css/main.1f591648.chunk.css.map",
+    "static/js/2.0ba3a2d9.chunk.js.LICENSE.txt": "/Recipal/static/js/2.0ba3a2d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ef6325a.js",
+    "static/css/2.8a17276e.chunk.css",
+    "static/js/2.0ba3a2d9.chunk.js",
+    "static/css/main.1f591648.chunk.css",
+    "static/js/main.a15bba2c.chunk.js"
+  ]
+}
